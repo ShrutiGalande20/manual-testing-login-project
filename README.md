@@ -19,7 +19,6 @@ This project demonstrates manual testing of the Login functionality of a web app
 * Bug Reports
 * Requirement Traceability Matrix (RTM)
 * Test Plan
-* Screenshots
 
 ## Testing Types Covered
 
