@@ -1,11 +1,10 @@
 # Manual Testing Project — Login Module
 
-## 📌 Project Overview
+## Project Overview
 
-This project demonstrates manual testing of the Login functionality of a web application.
-The objective is to verify that users can log in successfully using valid credentials and appropriate validation messages are displayed for invalid attempts.
+This project demonstrates manual testing of the Login functionality of a web application. The objective is to verify that users can log in successfully using valid credentials and that appropriate validation and error messages are displayed for invalid attempts.
 
-## ✅ Scope of Testing
+## Scope of Testing
 
 * Login functionality
 * Field validation
@@ -13,7 +12,7 @@ The objective is to verify that users can log in successfully using valid creden
 * UI validation
 * Session behavior
 
-## 📂 Project Documents
+## Project Documents
 
 * Test Scenarios
 * Test Cases
@@ -22,23 +21,23 @@ The objective is to verify that users can log in successfully using valid creden
 * Test Plan
 * Screenshots
 
-## 🧪 Testing Types Covered
+## Testing Types Covered
 
 * Functional Testing
 * UI Testing
 * Validation Testing
 * Negative Testing
 
-## 🎯 Objective
+## Objective
 
-To ensure login functionality works correctly and meets requirements.
+To ensure login functionality works correctly and meets specified requirements.
 
-## 👩‍💻 Tools Used
+## Tools Used
 
 * Microsoft Excel
-* Manual Testing Techniques
+* Manual Testing techniques
 * GitHub
 
-## 📎 Author
+## Author
 
 Shruti Galande
